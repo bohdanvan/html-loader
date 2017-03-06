@@ -2,4 +2,4 @@
 
 The application starting example:
 
-`java HtmlLoaderRunner --threads 10 --main-url https://www.oracle.com/ --base-dir out`
+`java com.bvan.htmlloader.HtmlLoaderRunner --threads 10 --main-url https://www.oracle.com/ --base-dir out`
